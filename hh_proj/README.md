@@ -1,7 +1,7 @@
 # Анализ базы вакансий HeadHunter для Аналитиков данных и Бизнес-аналитиков
 Данный проект лучше открывать в nbviewer, так как на GitHub некорректно работает оглавление (навигация по проекту).  
 
-[Ссылка на проект в nbviewer](https://nbviewer.org/github/qusoq/masterskaya/blob/main/hh_proj/hh_proj.ipynb)
+[Ссылка на проект в nbviewer](https://nbviewer.org/github/qusoq/pet_projects/blob/main/hh_proj/hh_proj.ipynb)
 [Ссылка на презентацию](https://disk.yandex.ru/i/KjSCchfUiFIo8A)
 
 ## Описание и цели проекта
